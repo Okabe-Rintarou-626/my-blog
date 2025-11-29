@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+    - theme: alt
+      text: 2025-11-29
+      link: /2025-11-29
 
 features:
   - title: Feature A
