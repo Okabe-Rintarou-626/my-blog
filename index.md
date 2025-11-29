@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 学习日记
-      link: /diary/
+      link: /web/diary/
     - theme: alt
       text: 资源推荐
-      link: /resources/
+      link: /web/resources/
 
 features:
   - title: Blender
