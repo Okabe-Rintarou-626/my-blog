@@ -18,11 +18,10 @@ hero:
       link: /2025-11-29
 
 features:
-  - title: Feature A
-    details: 这是第一块地方
-  - title: Feature B
-    details: 那么这是第二块
-  - title: Feature C
-    details: 这是第三块不知道写啥
+  - title: Blender
+    details: 开源3D创作套件，用于创建3D模型、动画和渲染
+  - title: Unity
+    details: 跨平台游戏引擎，广泛用于2D和3D游戏开发
+  - title: VSCode
+    details: 轻量级但功能强大的源代码编辑器，支持多种编程语言
 ---
-
