@@ -16,10 +16,10 @@ hero:
 
 features:
   - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: 这是第一块地方
   - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: 那么这是第二块
   - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: 这是第三块不知道写啥
 ---
 
