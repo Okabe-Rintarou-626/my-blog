@@ -16,17 +16,17 @@ export default defineConfig({
       {
         text: '学习日记',
         items: [
-          { text: 'Blender', link: '/diary/blender' },
-          { text: 'Unity', link: '/diary/unity' },
-          { text: 'Web', link: '/diary/web' }
+          { text: 'Blender', link: '/diary/blender/' },
+          { text: 'Unity', link: '/diary/unity/' },
+          { text: 'Web', link: '/diary/web/' }
         ]
       },
       {
         text: '资源推荐',
         items: [
-          { text: 'Blender', link: '/resources/blender' },
-          { text: 'Unity', link: '/resources/unity' },
-          { text: 'Web', link: '/resources/web' }
+          { text: 'Blender', link: '/resources/blender/' },
+          { text: 'Unity', link: '/resources/unity/' },
+          { text: 'Web', link: '/resources/web/' }
         ]
       }
     ],
